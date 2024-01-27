@@ -4,8 +4,8 @@
 💡 I love discovering new problems that others haven't thought of. <br>
 :carrot: I have five guinea pigs! 
 #### Get in touch with me: <br>
-:globe_with_meridians: [My website]([https://www.mywebsite.com](https://mbluck.github.io/portfolio/))  <br>
-:briefcase: [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/melanie-bluck-532850162/)) <br>
+:globe_with_meridians: [My website](https://mbluck.github.io/portfolio/)  <br>
+:briefcase: [LinkedIn](https://www.linkedin.com/in/melanie-bluck-532850162/) <br>
 :envelope: [Email](mailto:m.bluck1@gmail.com)  <br>
 
 # 💻 Tech Stack
