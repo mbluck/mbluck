@@ -1,5 +1,5 @@
 # 💫Hi there, I'm Melanie Bluck
-#### I studied Statistics and Data Science at UC Davis.
+#### I studied Statistics at UC Davis.
 :game_die: My primary interest is machine learning and I want to mathematically model real-world probabilistic systems. <br>
 💡 I love discovering new problems that others haven't thought of. <br>
 :carrot: I have five guinea pigs! 
