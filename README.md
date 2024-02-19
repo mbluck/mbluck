@@ -15,11 +15,11 @@
 
 # Projects
 ## Works in Progress:
-#### Stocks by Sector Dashboard:   [Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis) <br>
-An interactive dashboard web app built with Plotly Dash that displays real-time stock data aggregated across sectors. <br><br>
+#### Stocks by Sector Dashboard:   [Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis)
+An interactive dashboard web app built with Plotly Dash that displays real-time stock data aggregated across sectors. 
 
-#### Housing Location Analysis: [Repo Link](https://github.com/mbluck/Housing-Location-Analysis) <br>
-An analysis of the effect that a house's proximity to other locations of interest (parks, schools, etc.) has on its price. Data obtained through webscraping and geocoding API, and analyzed via regression. <br><br>
+#### Housing Location Analysis: [Repo Link](https://github.com/mbluck/Housing-Location-Analysis) 
+An analysis of the effect that a house's proximity to other locations of interest (parks, schools, etc.) has on its price. Data obtained through webscraping and geocoding API, and analyzed via regression. 
 
-#### Marilyn Monroe: [Repo Link](https://github.com/mbluck/Shot-Marilyn) <br>
+#### Marilyn Monroe: [Repo Link](https://github.com/mbluck/Shot-Marilyn) 
 A web app built with Streamlit for a data-based interpretation of Andy Warhol's "Shot Marilyn" using the color data of the images. 
