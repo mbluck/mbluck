@@ -14,6 +14,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # Projects
+## Selected Academic Works: 
+[Google Drive](https://drive.google.com/drive/folders/1Js_5jehliK_sMvjC0lJz-mvbtEyzzMyg?usp=drive_link)
+
 ## Works in Progress:
 #### Stocks by Sector Dashboard:   [Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis)
 An interactive dashboard web app built with Plotly Dash that displays real-time stock data aggregated across sectors. 
