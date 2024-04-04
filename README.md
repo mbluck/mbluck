@@ -23,7 +23,7 @@ different stop reasons. <br>
 
 #### Stocks by Sector Web App
 An interactive dashboard web app built with Plotly Dash that displays stock data aggregated across sectors. Select a sector type and view the top companies, the market weights of the industries within that sector, and the distributions for stock price, market volume, and 50 day averages of all the NASDAQ tickers within the sector.<br> 
-[View Dashboard Online](https://stocks-by-sector-dc190b45069c.herokuapp.com/)
+[View Dashboard Online](https://stocks-by-sector-dc190b45069c.herokuapp.com/) <br>
 [Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis)
 
 
