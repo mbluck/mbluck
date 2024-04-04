@@ -21,6 +21,12 @@ different stop reasons. <br>
 [Tableau Public](https://public.tableau.com/app/profile/melanie.bluck/viz/SanFranciscoPoliceStops/Dashboard1) <br>
 [Google Drive (no interactivity)](https://drive.google.com/file/d/1IQrV1FWK_UjOSHBSr77zKWdY8ODJqGGm/view?usp=sharing)
 
+#### Stocks by Sector Web App
+An interactive dashboard web app built with Plotly Dash that displays stock data aggregated across sectors. Select a sector type and view the top companies, the market weights of the industries within that sector, and the distributions for stock price, market volume, and 50 day averages of all the NASDAQ tickers within the sector.<br> 
+[View Dashboard Online](https://stocks-by-sector-dc190b45069c.herokuapp.com/)
+[Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis)
+
+
 ## Selected Academic Works: 
 #### Predicting Student Dropouts in Higher Education
 Compares the accuracy and computational efficiency of different machine learning classification models for
@@ -35,8 +41,6 @@ segmentation by clustering and several detailed visualizations. Reveals similari
 [Google Drive](https://drive.google.com/drive/folders/1Js_5jehliK_sMvjC0lJz-mvbtEyzzMyg?usp=drive_link)
 
 ## Works in Progress:
-#### Stocks by Sector Dashboard:   [Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis)
-An interactive dashboard web app built with Plotly Dash that displays real-time stock data aggregated across sectors. 
 
 #### Housing Location Analysis: [Repo Link](https://github.com/mbluck/Housing-Location-Analysis) 
 An analysis of the effect that a house's proximity to other locations of interest (parks, schools, etc.) has on its price. Data obtained through webscraping and geocoding API, and analyzed via regression. 
