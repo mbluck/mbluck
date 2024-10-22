@@ -14,7 +14,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # Projects
-## Data Analysis:
+## Data Analysis
 #### Policing Data Tableau Dashboard
 An interactive Tableau dashboard which shows demographic and location data in relation to the traffic stops
 conducted by San Francisco police. Reveals key differences in outcomes between different neighborhoods and
@@ -29,7 +29,7 @@ The data is updated daily. <br>
 [View Dashboard Online](https://stocks-by-sector-dc190b45069c.herokuapp.com/) <br>
 [Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis)
 
-## Machine Learning:
+## Machine Learning
 #### Predicting College Dropouts
 Comparing the performance of logistic regression and XGBoost in predicting which university students will dropout. <br>
 [Repo Link](https://github.com/mbluck/College-Dropout-Prediction)
