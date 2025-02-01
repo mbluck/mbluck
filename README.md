@@ -31,6 +31,7 @@ The data is updated daily. <br>
 
 ## Machine Learning
 #### Predicting College Dropouts
-Predicting which college students will dropout based on demographic and academic factors. Builds a logistic regression model to predict future dropouts with 87% accuracy and well-generalized fit. <br>
-[Dashboard]
+Predicting which college students will dropout based on demographic and academic factors. Builds a logistic regression model to predict future dropouts with 87% accuracy and well-generalized fit. Allows university administration to identify at-risk students and provide targeted intervention measures. <br>
+A PowerBI dashboard displays key model metrics. <br>
+[Dashboard (PDF without interactivity)](https://www.dropbox.com/scl/fi/cqzex0uomu7rs712wb8pe/Dashboard.pdf?rlkey=p8nimxyrhb758b8jre4uiq3jd&st=2x4kn59v&dl=0)
 [Repo Link](https://github.com/mbluck/College-Dropout-Prediction)
