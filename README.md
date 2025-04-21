@@ -35,3 +35,7 @@ Predicting which college students will dropout based on demographic and academic
 A PowerBI dashboard displays key model metrics. <br>
 [Dashboard (PDF without interactivity)](https://www.dropbox.com/scl/fi/cqzex0uomu7rs712wb8pe/Dashboard.pdf?rlkey=p8nimxyrhb758b8jre4uiq3jd&st=2x4kn59v&dl=0) <br>
 [Repo Link](https://github.com/mbluck/College-Dropout-Prediction)
+
+#### Futures Price Forecast (Work in Progress)
+Uses gradient boosting to forecast the contract prices of sugar futures and determine optimal buy times. <br>
+[Repo Link](https://github.com/mbluck/Futures-Price-Forecast)
