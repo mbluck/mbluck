@@ -35,6 +35,8 @@ An interactive dashboard web app built with Plotly Dash that displays stock data
 Select a sector type and view the top companies, the market weights of the industries within that sector, and the distributions for stock price, market volume, and 50 day averages of all the NASDAQ tickers within the sector.<br>
 The data is updated daily. <br> 
 ❗UPDATE IN PROGRESS❗-- Improve visual interest and intuitive interaction by refining dashboard elements. <br>
+* Make histograms more visually clear
+* Add "last updated" time <br>
 [View Webpage](https://stocks-by-sector-dc190b45069c.herokuapp.com/) <br>
 [Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis)
 
