@@ -21,14 +21,14 @@
 An interactive Tableau dashboard which shows demographic and location data in relation to the traffic stops
 conducted by San Francisco police. Reveals key differences in outcomes between different neighborhoods and
 different stop reasons. <br>
-[View Dashboard with Key Takeaway Analysis](https://mavenanalytics.io/project/34135) <br>
+[View Dashboard with Key Takeaway Analysis](https://mavenshowcase.com/project/34135) <br>
 [Best Dashboard View, No Analysis](https://public.tableau.com/views/SanFranciscoPoliceStops_17492456970570/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 #### Global Electronics Sales Power BI Dashboard
 An interactive Power BI dashboard which displays important sales trends across time and different markets,
 especially how different product types have changed in relative popularity. 
 Shows how sales have been impacted by COVID-19. <br>
-[View Dashboard with Key Takeaway Analysis](https://mavenanalytics.io/project/35470)
+[View Dashboard with Key Takeaway Analysis](https://mavenshowcase.com/project/35470)
 
 #### Stocks by Sector Web App
 An interactive dashboard web app built with Plotly Dash that displays stock data aggregated across sectors. 
