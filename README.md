@@ -37,7 +37,7 @@ The data is updated daily. <br>
 ❗UPDATE IN PROGRESS❗-- Improve visual interest and intuitive interaction by refining dashboard elements. <br>
 * Make histograms more visually clear
 * Add "last updated" time <br>
-[View Webpage](https://stocks-by-sector-dc190b45069c.herokuapp.com/) <br>
+[View Webpage](https://stocks-by-sector-fd8a302ce0ea.herokuapp.com/) <br>
 [Repo Link](https://github.com/mbluck/Stocks-by-Sector-Analysis)
 
 
