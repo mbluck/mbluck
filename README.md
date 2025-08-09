@@ -31,7 +31,7 @@ Shows how sales have been impacted by COVID-19. <br>
 [View Dashboard with Key Takeaway Analysis](https://mavenshowcase.com/project/35470)
 
 #### Stocks by Sector Web App
-An interactive dashboard web app built with Plotly Dash that displays stock data aggregated across sectors. 
+An interactive dashboard web app built with Plotly Dash that displays stock data aggregated across sectors, a view NOT available in Yahoo finance.<br> 
 Select a sector type and view the top companies, the market weights of the industries within that sector, and the distributions for stock price, market volume, and 50 day averages of all the NASDAQ tickers within the sector.<br>
 The data is updated daily. <br> 
 ❗UPDATE IN PROGRESS❗-- Improve visual interest and intuitive interaction by refining dashboard elements. <br>
